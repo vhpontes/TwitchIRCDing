@@ -33,4 +33,4 @@ cd TwitchIRCDing
 * 3. Run the main script to start sending messages to a channel.
  
 ### License
-This project is licensed under the MIT License - see the `[LICENSE](/LICENSE)` file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
