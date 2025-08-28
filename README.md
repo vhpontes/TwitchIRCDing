@@ -29,7 +29,7 @@ git clone [https://github.com/vhpontes/TwitchIRCDing.git](https://github.com/vhp
 cd TwitchIRCDing
 ```
 
-* 2. Set up your .env file with your Twitch credentials.
+* 2. Set up your `.env` file with your Twitch credentials.
 * 3. Run the main script to start sending messages to a channel.
  
 ### License
